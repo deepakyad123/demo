@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+.commentfile.js
+
+        
+
+
+
+
+
+# misc
+
+.env
